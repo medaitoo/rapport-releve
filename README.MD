@@ -8,3 +8,6 @@
 
 <h2>Partie B:</h2>
 <img src="captures/relevejava.png">
+
+<h3>Partie C:</h3>
+<img src="captures/methodesSOAPUI.png">
